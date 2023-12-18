@@ -1,0 +1,36 @@
+[submodule "clusterization_NBA"]
+	path = clusterization_NBA
+	url = https://github.com/bastianbm7/clusterization_NBA.git
+[submodule "Lakers-Points-Comparison"]
+	path = Lakers-Points-Comparison
+	url = https://github.com/bastianbm7/Lakers-Points-Comparison.git
+[submodule "VideoGames_Analysis"]
+	path = VideoGames_Analysis
+	url = https://github.com/bastianbm7/VideoGames_Analysis.git
+[submodule "Angine_classifier"]
+	path = Angine_classifier
+	url = https://github.com/bastianbm7/Angine_classifier.git
+[submodule "Database_report"]
+	path = Database_report
+	url = https://github.com/bastianbm7/Database_report.git
+[submodule "HousePrice_Chile"]
+	path = HousePrice_Chile
+	url = https://github.com/bastianbm7/HousePrice_Chile.git
+[submodule "jackknife_bootstrap"]
+	path = jackknife_bootstrap
+	url = https://github.com/bastianbm7/jackknife_bootstrap.git
+[submodule "GibssSampling_Bayesian"]
+	path = GibssSampling_Bayesian
+	url = https://github.com/bastianbm7/GibssSampling_Bayesian.git
+[submodule "OrangeTelcom_classifier"]
+	path = OrangeTelcom_classifier
+	url = https://github.com/bastianbm7/OrangeTelcom_classifier.git
+[submodule "Analisis-Encuesta-Casen-Chile"]
+	path = Analisis-Encuesta-Casen-Chile
+	url = https://github.com/bastianbm7/Analisis-Encuesta-Casen-Chile.git
+[submodule "spotify-populartiy-prediction"]
+	path = spotify-populartiy-prediction
+	url = https://github.com/bastianbm7/spotify-populartiy-prediction.git
+[submodule "Shot-Analysis-CAVS2015"]
+	path = Shot-Analysis-CAVS2015
+	url = https://github.com/bastianbm7/Shot-Analysis-CAVS2015.git
